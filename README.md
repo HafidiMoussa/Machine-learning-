@@ -1,1 +1,1 @@
-# Machine-learning-spectral-clustering
+# Machine-learning-Data-science
